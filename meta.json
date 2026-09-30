@@ -1,0 +1,26 @@
+{
+  "repo": "tunnelbear-vpn-max",
+  "product": "TunnelBear VPN Max",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "vpn-client",
+  "topics": [
+    "tunnelbear-vpn-max",
+    "tunnelbear-desktop",
+    "tunnelbear-windows",
+    "vpn-client",
+    "secure-tunnel",
+    "privacy-protection",
+    "encrypted-traffic",
+    "desktop-vpn",
+    "windows-vpn",
+    "anonymous-browsing",
+    "geo-unblock",
+    "wifi-security",
+    "online-privacy"
+  ],
+  "site": "zentool.art"
+}
